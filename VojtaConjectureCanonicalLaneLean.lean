@@ -1,0 +1,7 @@
+-- This module is the root of the VojtaConjectureCanonicalLaneLean Lean proof package.
+import VojtaConjectureCanonicalLaneLean.Basic
+import VojtaConjectureCanonicalLaneLean.SourcePackage
+import VojtaConjectureCanonicalLaneLean.SourceDependencies
+import VojtaConjectureCanonicalLaneLean.Formalization
+import VojtaConjectureCanonicalLaneLean.ReviewerBridge
+import VojtaConjectureCanonicalLaneLean.TheoremStatement
