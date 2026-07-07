@@ -12,3 +12,4 @@ import VojtaConjectureCanonicalLaneLean.BridgeLemmas
 import VojtaConjectureCanonicalLaneLean.GateLemmas
 import VojtaConjectureCanonicalLaneLean.FinalTheorem
 import VojtaConjectureCanonicalLaneLean.MathlibStatement
+import VojtaConjectureCanonicalLaneLean.HeightInequalityLayer
